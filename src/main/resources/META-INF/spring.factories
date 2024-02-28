@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.myself.start.configuration.IdAutoConfiguration,\
+  com.myself.start.configuration.LockAutoConfiguration
